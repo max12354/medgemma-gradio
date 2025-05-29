@@ -8,3 +8,12 @@ MedGemma Radiology Assistant with Gradio
 > 💡 Request access to the model [here](https://huggingface.co/google/medgemma-4b-it) before running the app.
 
 
+# 🧠 MedGemma Gradio App
+
+[![GPU Required](https://img.shields.io/badge/GPU-required-blue?logo=nvidia)](#requirements)
+[![Hugging Face Access](https://img.shields.io/badge/HuggingFace-model--access-yellow?logo=huggingface)](https://huggingface.co/google/medgemma-4b-it)
+[![Built with Gradio](https://img.shields.io/badge/Built%20with-Gradio-orange?logo=gradio)](https://gradio.app/)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)](https://www.python.org/)
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+
+> A Gradio-powered AI assistant using Google's MedGemma-4B multimodal model for medical image analysis.
