@@ -22,4 +22,4 @@ MedGemma Radiology Assistant with Gradio
 
 Here’s how the MedGemma Gradio app works:
 
-![MedGemma AI Demo](./screenshot.png)
+![MedGemma AI Demo](./Screenshot.png)
