@@ -18,3 +18,8 @@ MedGemma Radiology Assistant with Gradio
 
 > A Gradio-powered AI assistant using Google's MedGemma-4B multimodal model for medical image analysis.
 
+## 🖼️ Demo
+
+Here’s how the MedGemma Gradio app works:
+
+![MedGemma AI Demo](./screenshot.png)
