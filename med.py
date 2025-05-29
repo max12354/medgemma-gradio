@@ -35,7 +35,7 @@ def analyze_image(image, prompt):
     ]
 
     with torch.no_grad():
-        output = pipe(text=messages, max_new_tokens=200)
+        output = pipe(text=messages, max_new_tokens=1024)
 
     return output[0]["generated_text"][-1]["content"]
 
