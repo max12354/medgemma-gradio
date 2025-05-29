@@ -17,3 +17,5 @@ MedGemma Radiology Assistant with Gradio
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 > A Gradio-powered AI assistant using Google's MedGemma-4B multimodal model for medical image analysis.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/...)
